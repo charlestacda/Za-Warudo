@@ -1,0 +1,23 @@
+Allen Rae Patawaran (Company Size and Departments)
+Charles Joshua Tacda (Proposed System)
+Deanne Marjorie Bautista (IT Department)
+Hanna Panganiban (Networks, Printers, and Communication Device)
+Charles Jansid Dela Viña (Job Description)
+Joshua Moises Bay (Needed Hardware)
+Myka Factolerin (IT Infrastructure)
+Stephen Dan Moral (Location)
+
+
+Tacda: "Introduction of the Presentation"
+Panganiban: "Company Description"
+Dela Viña: "Description of Each Top-Level Management (w/organizational chart)"
+Moral: "Location of Main Branch and other Branches"
+Patawaran: "Company Size and Departments"
+Tacda: "Simple Proposed System w/Workbench and Website"
+Bautista: "IT Department"
+Factolerin: "Types of IT Infrastructure and Connectivity"
+Bay: "Hardare Needed by the Company"
+Panganiban: "Networks, Printers, and Communication Device"
+Bautista: "The ER and Model Diagram"
+Tacda: "Sample Generated Report w/Tables"
+Tacda: "End of Presentation"
